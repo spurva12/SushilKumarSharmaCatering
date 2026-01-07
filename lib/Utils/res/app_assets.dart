@@ -1,0 +1,5 @@
+
+
+class AppAssets {
+  static const logo = "assets/logo/img.png";
+}
